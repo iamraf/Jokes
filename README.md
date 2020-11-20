@@ -8,7 +8,9 @@ Project is implemented following Clean MVVM architectural pattern and uses:
 * LiveData: [https://developer.android.com/topic/libraries/architecture/livedata](https://developer.android.com/topic/libraries/architecture/livedata)
 * ViewModel: [https://developer.android.com/topic/libraries/architecture/viewmodel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 * ViewBinding: [https://developer.android.com/topic/libraries/view-binding](https://developer.android.com/topic/libraries/view-binding)
+* Hilt: [https://dagger.dev/hilt/](https://dagger.dev/hilt/)
 * Retrofit: [https://square.github.io/retrofit/](https://square.github.io/retrofit/)
+* Moshi: [https://github.com/square/moshi](https://github.com/square/moshi)
 
 ## Preview
 
